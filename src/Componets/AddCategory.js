@@ -14,7 +14,7 @@ const AddCategory = ({ setcategories }) => {
         e.preventDefault();
 
         if(inputvalue.trim().length > 2 ){
-            setcategories( cats => [...cats, inputvalue ]);
+            setcategories( cats => [ inputvalue,...cats ]);
             setInputvalue('');
         }
         
