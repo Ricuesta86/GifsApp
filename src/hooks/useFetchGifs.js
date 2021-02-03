@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { getGifs } from '../Helpers/getGifs';
+import { getGifs } from '../helpers/getGifs';
 
 
 
