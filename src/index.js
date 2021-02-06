@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import GifGridItem from './components/GifGridItem';
+import GifExpertApp from './components/GifExpertApp';
 import './css/index.css';
 
 ReactDOM.render(  
-   <GifGridItem />,
+   <GifExpertApp />,
   document.getElementById('root')
 );
 
