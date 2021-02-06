@@ -1,0 +1,2 @@
+(this["webpackJsonpgif-expert-app"]=this["webpackJsonpgif-expert-app"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var a=n(0),c=(n(1),n(3)),i=n.n(c),r=function(e){var t=e.title,n=e.url;return Object(a.jsxs)("div",{className:"card animate__animated animate__fadeInUp",children:[Object(a.jsx)("img",{src:n,alt:t}),Object(a.jsx)("p",{children:t})]})};n(9);i.a.render(Object(a.jsx)(r,{}),document.getElementById("root"))},9:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.29cc3f6f.chunk.js.map
